@@ -1,0 +1,9 @@
+.DS_Store
+*.pyc
+*.log
+*.sqlite3
+.ropeproject
+.idea
+build
+dist
+*.egg-info
