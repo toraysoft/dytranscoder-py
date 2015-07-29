@@ -5,7 +5,9 @@
 安装
 ----
 ```
-pip install git@git.hoge.cn:jeffkit/dytranscoder-py.git
+git clone git@git.hoge.cn:jeffkit/dytranscoder-py.git
+cd dytranscoder
+sudo python setup.py install
 ```
 
 使用
